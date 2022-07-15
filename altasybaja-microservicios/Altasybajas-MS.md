@@ -2,11 +2,11 @@
 
 1ro: Approbar y merged el PR
 
-[![Approve-PR.png](imagenes/Approve-PR.png)]
+[![Approve-PR.png](prueba/altasybaja-microservicios/Imagenes/Approve-PR.png)]
 
-2do: Verificar en donde vive el microservicio  en este caso solo vive en MX
+2do: Verificar en donde vive el microservicio  en este caso solo vive en mx
 
-[![Donde-vive-mx.png](https://i.postimg.cc/Y2hXNpwC/Donde-vive-mx.png)]
+[![Donde-vive-mx.png](../altasybaja-microservicios/Imagenes/Donde-vive-mx.png)]
 
 3ro. Verificar que cosas tiene como por ejemplo:
 
